@@ -1,0 +1,16 @@
+PODS:
+  - AUOptimize (0.1.0)
+
+DEPENDENCIES:
+  - AUOptimize (from `../`)
+
+EXTERNAL SOURCES:
+  AUOptimize:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AUOptimize: 9e32dc697696628a98c7ff4f788a8fa14ba89ccb
+
+PODFILE CHECKSUM: 8e75df8bbe81907e1dc215f04b0c9399078a3060
+
+COCOAPODS: 1.15.2

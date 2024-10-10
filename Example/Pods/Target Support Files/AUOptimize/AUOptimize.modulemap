@@ -1,0 +1,6 @@
+framework module AUOptimize {
+  umbrella header "AUOptimize-umbrella.h"
+
+  export *
+  module * { export * }
+}

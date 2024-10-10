@@ -1,0 +1,27 @@
+{
+  "name": "AUOptimize",
+  "version": "0.1.0",
+  "summary": "Vantage AU performance optimize",
+  "description": "A library of optimizations for performance improvement and efficiency in iOS apps.",
+  "homepage": "https://github.com/lee-617/AUOptimize",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lee-617": "553829076@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/lee-617/AUOptimize.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "AUOptimize/Classes/**/*.{h,m}",
+  "resource_bundles": {
+    "AUOptimize": [
+      "AUOptimize/Assets/**/*.*"
+    ]
+  }
+}
