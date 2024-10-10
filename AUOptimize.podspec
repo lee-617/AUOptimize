@@ -30,7 +30,7 @@ A library of optimizations for performance improvement and efficiency in iOS app
 
   s.ios.deployment_target = '10.0'
 
-  s.source_files = 'AUOptimize/Classes/**/*.{h,m}'
+  s.source_files = 'AUOptimize/Classes/*.{h,m}'
   
   # s.resource_bundles = {
   #   'AUOptimize' => ['AUOptimize/Assets/**/*.*']
