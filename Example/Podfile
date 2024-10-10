@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'AUOptimize_Example' do
+  pod 'AUOptimize', :path => '../'
+
+  target 'AUOptimize_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
